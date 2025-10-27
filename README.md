@@ -8,7 +8,7 @@
   - C#
   * Weaknesses
     - The biggest is a lack of expierence
-    -C++
+    - C++
 * Studio Types
   - AAA.
   - Indie
