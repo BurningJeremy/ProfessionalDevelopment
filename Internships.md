@@ -5,6 +5,8 @@
   * Why I am a good fit: While I do have a slight preference for board games and especially Tabletop Miniature Wargames (such as Warhammer 40k and Conquest: Last Arguement of Kings), I do love tabletop games, and when playing these games, I do often try to analysis what I have access to, what I can do for the best result and coming up with strategies to employ when playing.
   * Requirements I need to work on: May need to work on my Communication Skills when it comes to explaining mechanics, and also my attention to detail in certain areas.
 
+  * 
+
 [Narrative Design Intern at EA](https://www.indeed.com/viewjob?jk=2f35fbef126c443c&from=shareddesktop_copy)
 
 * Why I am a good fit: Storytelling is a personal passion of mine and narratives are something that I rank highly in how I judge a game, as well as how that story interacts with the gameplay.
