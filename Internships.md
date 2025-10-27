@@ -13,14 +13,20 @@ _____
 * Why I am a good fit: Storytelling is a personal passion of mine and narratives are something that I rank highly in how I judge a game, as well as how that story interacts with the gameplay.
 * Requirements I need to work on: Skills in creating a Design Document.
 
+________
+
 [Gameplay Programmer at Evening Star](https://www.workwithindies.com/careers/evening-star-gameplay-programmer)
 
 * Why I am a good fit: As someone with some expierence and knkowledge of the basics of Animation, I am interested in ensuring motion arcs and the timing of animations are handled properly, and I enjoy finding creative solutions to problems.
 * Requirements I need to work on: I need to work on getting more comfortable with GitHub and need to get the 3-5 years in the industry while shipping out at least one title.
 
+______
+
 [Summer Internship at CD Projekt Red](https://www.cdprojektred.com/en/internship)
 * Why I am a good fit: As a university student and would be able to work full time as a intern during the months of July through September, and while not the best at speaking, I am generally considered to be a good writer by most.
 * Requirements I need to work on: Being in Poland throughout that time is, while not a deal breaker, would be something that would make things challenging logistically.
+
+  _______
 
 [UI/UX Developer Summer Internship](https://www.indeed.com/viewjob?jk=7897f73adb3be6b0&from=shareddesktop_copy)
 * Why I am a good fit: A interest in learning and working on how to design UI in games and in general
