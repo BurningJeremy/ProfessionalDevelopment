@@ -10,7 +10,8 @@
     - The biggest is a lack of expierence
     -C++
 * Studio Types
-  - I have no real preference between working at a Triple-A or Indie studio.
+  - AAA.
+  - Indie
 * Programming Specialization
   -  Gameplay Programming.
   -  UI Programming
