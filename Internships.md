@@ -6,6 +6,7 @@
   * Requirements I need to work on: May need to work on my Communication Skills when it comes to explaining mechanics, and also my attention to detail in certain areas.
 
     [Resume](./Resume1.pdf)
+_____
 
 [Narrative Design Intern at EA](https://www.indeed.com/viewjob?jk=2f35fbef126c443c&from=shareddesktop_copy)
 
